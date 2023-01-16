@@ -1,8 +1,8 @@
-@lisa-env/csk6
+@lisa-env/csk6-mpy
 ==========
 
 ## 安装
 
 ```
-lisa install @lisa-env/csk6
+lisa zep use-env csk6-mpy
 ```
